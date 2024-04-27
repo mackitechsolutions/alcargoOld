@@ -897,7 +897,7 @@
     #comp-lj1atvqc :is(p, h1, h2, h3, h4, h5, h6, ul, ol, span[data-attr-richtext-marker], blockquote) {
         color: #FFFFFF;
         background: rgba(0, 10, 31, 0.6);
-        padding: 20px 30px;
+        padding: 20px 30px 15px;
         font-size: max(36px, min(112px, calc((5.781 * var(--one-unit)) - (var(--scrollbar-width) * 0.05781))));
         text-decoration: none;
         text-align: left;
